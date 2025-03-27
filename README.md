@@ -22,7 +22,7 @@
 [![Recreativa](https://img.shields.io/badge/-Recreativa-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/FSantiagoPA/RecreativaProject)  
 An app featuring multiple games for a fun and engaging experience. `Technologies used:` Java, JSON, and Android Studio. It was created together with two of my classmates.
 
-[![Battleship](https://img.shields.io/badge/-Battleship-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/FSantiagoPA/BattleShip)  
+[![Battleship](https://img.shields.io/badge/-Battleship-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/SantiDevel/BattleShip)  
 A classic Battleship game featuring CPU mode and 1v1, where players strategically sink their opponent's ships. `Used technologies:` Java and JetBrains Idea, That was created with my teammate Andres. Here is his GitHub: https://github.com/AndresGMoran.
 
 [![Points of interest manager](https://img.shields.io/badge/-Points%20of%20interest%20manager-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/FSantiagoPA/Points-of-interest)  
