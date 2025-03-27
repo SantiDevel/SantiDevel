@@ -19,19 +19,19 @@
 
 ✨ Here are some of the projects I'm most proud of:
 
-[![Recreativa](https://img.shields.io/badge/-Recreativa-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/FSantiagoPA/RecreativaProject)  
+[![Recreativa](https://img.shields.io/badge/-Recreativa-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/SantiDevel/RecreativaProject)  
 An app featuring multiple games for a fun and engaging experience. `Technologies used:` Java, JSON, and Android Studio. It was created together with two of my classmates.
 
 [![Battleship](https://img.shields.io/badge/-Battleship-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/SantiDevel/BattleShip)  
 A classic Battleship game featuring CPU mode and 1v1, where players strategically sink their opponent's ships. `Used technologies:` Java and JetBrains Idea, That was created with my teammate Andres. Here is his GitHub: https://github.com/AndresGMoran.
 
-[![Points of interest manager](https://img.shields.io/badge/-Points%20of%20interest%20manager-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/FSantiagoPA/Points-of-interest)  
+[![Points of interest manager](https://img.shields.io/badge/-Points%20of%20interest%20manager-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/SantiDevel/Points-of-interest)  
 Application for managing points of interest with a MySQL and MongoDB database, featuring a complete CRUD functionality. `Used technologies:` Java, MySQL, MongoDB and Eclipse.
 
-[![Vehicle management](https://img.shields.io/badge/Vehiclet%20management%20-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/FSantiagoPA/Vehicle-management)  
+[![Vehicle management](https://img.shields.io/badge/Vehiclet%20management%20-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/SantiDevel/Vehicle-management)  
 Application with managment of cars using hibernate with annotations. `Used technologies:` Eclipse.
 
-[![MultiThreadApp](https://img.shields.io/badge/-MultiThread%20App-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/FSantiagoPA/MultiThreadApp)  
+[![MultiThreadApp](https://img.shields.io/badge/-MultiThread%20App-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/SantiDevel/MultiThreadApp)  
 Application with multiple functionalities, each running on its own thread. `Used technologies:` Python.
 
 ## 🤝 Connect with me
@@ -39,7 +39,7 @@ Application with multiple functionalities, each running on its own thread. `Used
 	&emsp;
 	<a href="mailto:santiago119parra@gmail.com"><img img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
 	&emsp;
-	<a href="https://github.com/FSantiagoPA"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+	<a href="https://github.com/SantiDevel"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
 	&emsp;
 	<a href="https://"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
 </p>
@@ -55,10 +55,10 @@ Application with multiple functionalities, each running on its own thread. `Used
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=FSantiagoPA&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="230px"/>
+        <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=SantiDevel&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="230px"/>
     </a>
     <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FSantiagoPA&theme=dark&hide_border=false" alt="GitHub Streak Stats" height="230px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantiDevel&theme=dark&hide_border=false" alt="GitHub Streak Stats" height="230px"/>
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FSantiagoPA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="230px"/>
 </p>
@@ -71,7 +71,7 @@ Application with multiple functionalities, each running on its own thread. `Used
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AndresGMoran&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="FSantiagoPA" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SantiDevel&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="SantiDevel" /></a> </p>
 	
 </details>
 
