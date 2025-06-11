@@ -60,7 +60,7 @@ Application with multiple functionalities, each running on its own thread. `Used
     <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantiDevel&theme=dark&hide_border=false" alt="GitHub Streak Stats" height="230px"/>
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FSantiagoPA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="230px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiDevel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="230px"/>
 </p>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
